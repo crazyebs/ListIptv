@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox HD">
+    <display-name lang="es">Fox HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Globo Brasília">
+    <display-name lang="pt">Globo Brasília</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
