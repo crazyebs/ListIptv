@@ -7,6 +7,10 @@
     <display-name lang="pt">AXN HD ³</display-name>
     <url>http://www.clarotv.com.br.EK</url>
   </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20200226000000 +0000" stop="20200226235900 +0000" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
