@@ -1,15 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="FX">
-    <display-name lang="pt">FX</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Fox HD">
-    <display-name lang="es">Fox HD</display-name>
-    <url>http://www.mi.tv</url>
-  </channel>
-  <channel id="Globo Brasília">
-    <display-name lang="pt">Globo Brasília</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-</tv>
+
+<settings>
+
+<filename>Lista_Evandro_VIP2</filename>
+<mode></mode>
+<postprocess grab="y" run="n">mdb</postprocess>
+<user-agent>Mozila/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+<logging>on</logging>
+<retry time-out="5">4</retry>
+<timespan>0</timespan>
+<update>f</update>
+
+
+<channel update="i" site="clarotv.com.br.EK" site_id="456##mtv" xmltv_id="MTV">MTV</channel>
+
+
+</settings>
